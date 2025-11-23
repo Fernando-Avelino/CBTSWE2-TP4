@@ -1,0 +1,68 @@
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.AssemblyInfo.cs
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.RazorAssemblyInfo.cs
+C:\Users\Fernando\Downloads\SWII6-TP04-main\SWII6-TP04-main\TP04\obj\Debug\net7.0\TP04.csproj.AssemblyReference.cache
+C:\Users\Fernando\Downloads\SWII6-TP04-main\SWII6-TP04-main\TP04\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\Fernando\Downloads\SWII6-TP04-main\SWII6-TP04-main\TP04\obj\Debug\net7.0\TP04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Downloads\SWII6-TP04-main\SWII6-TP04-main\TP04\obj\Debug\net7.0\TP04.AssemblyInfoInputs.cache
+C:\Users\Fernando\Downloads\SWII6-TP04-main\SWII6-TP04-main\TP04\obj\Debug\net7.0\TP04.AssemblyInfo.cs
+C:\Users\Fernando\Downloads\SWII6-TP04-main\SWII6-TP04-main\TP04\obj\Debug\net7.0\TP04.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Downloads\SWII6-TP04-main\SWII6-TP04-main\TP04\obj\Debug\net7.0\TP04.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fernando\Downloads\SWII6-TP04-main\SWII6-TP04-main\TP04\obj\Debug\net7.0\TP04.RazorAssemblyInfo.cache
+C:\Users\Fernando\Downloads\SWII6-TP04-main\SWII6-TP04-main\TP04\obj\Debug\net7.0\TP04.RazorAssemblyInfo.cs
+C:\Users\Fernando\Downloads\SWII6-TP04-main\SWII6-TP04-main\TP04\obj\Debug\net7.0\TP04.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\appsettings.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\TP04.staticwebassets.runtime.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\TP04.staticwebassets.endpoints.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\TP04.exe
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\TP04.deps.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\TP04.runtimeconfig.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\TP04.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\TP04.pdb
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\Remotion.Linq.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\System.Interactive.Async.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\WebAPI_SDK.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\bin\Debug\net7.0\WebAPI_SDK.pdb
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\TP04.csproj.AssemblyReference.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\TP04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\TP04.AssemblyInfoInputs.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\TP04.AssemblyInfo.cs
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\TP04.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\TP04.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\TP04.RazorAssemblyInfo.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\TP04.RazorAssemblyInfo.cs
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\scopedcss\bundle\TP04.styles.css
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\scopedcss\projectbundle\TP04.bundle.scp.css
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\TP04.csproj.Up2Date
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\TP04.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\refint\TP04.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\TP04.pdb
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\TP04.genruntimeconfig.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\CBTSWE2 TP04\TP04\obj\Debug\net7.0\ref\TP04.dll
