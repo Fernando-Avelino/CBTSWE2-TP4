@@ -1,99 +1,56 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using WebAPI_SDK.Dtos;
-using WebAPI_SDK.Services;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using WebAPI.Models;
+using WebAPI.Repositories;
 
 //Fernando Avelino da Silva CB3008053
 
-namespace TP04.Controllers
+namespace WebAPI.Controllers
 {
+    [Route("api/atividades")]
+    [ApiController]
     public class AtividadesController : Controller
     {
-        private readonly AtividadesService atividadesService;
+        private readonly AtividadesRepository _repository;
 
-        public AtividadesController(AtividadesService atividadesService)
+        public AtividadesController(AtividadesRepository repository)
         {
-            this.atividadesService = atividadesService;
+            _repository = repository;
         }
 
+        [HttpPost]
+        public async Task<IActionResult> Create(Atividade atividade)
+        {
+            _repository.Create(atividade);
+            return Created("", new object { });
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> Find(int id)
+        {
+            var atividade = await _repository.GetById(id);
+            return Ok(atividade);
+        }
+
+        [HttpGet]
         public async Task<IActionResult> Index()
         {
-            var atividades = await atividadesService.GetAll();
-            return View(atividades);
+            var atividades = await _repository.GetAll();
+            return Ok(atividades);
         }
 
-        public async Task<IActionResult> Details(int? id)
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, Atividade atividade)
         {
-            var atividade = await atividadesService.GetById((int)id);
-
-            if (atividade == null)
-            {
-                return NotFound();
-            }
-
-            return View(atividade);
+            _repository.Update(id, atividade);
+            return NoContent();
         }
 
-        public IActionResult Create()
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Remove(int id)
         {
-            return View();
+            _repository.Delete(id);
+            return NoContent();
         }
-
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(AtividadeDTO atividade)
-        {
-            if (ModelState.IsValid)
-            {
-                await atividadesService.Create(atividade);
-                return RedirectToAction(nameof(Index));
-            }
-            return View(atividade);
-        }
-
-        public async Task<IActionResult> Edit(int? id)
-        {
-            var atividade = await atividadesService.GetById((int)id);
-
-            if (atividade == null)
-            {
-                return NotFound();
-            }
-
-            return View(atividade);
-        }
-
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, AtividadeDTO atividade)
-        {
-            if (ModelState.IsValid)
-            {
-                await atividadesService.Update((int)id, atividade);
-                return RedirectToAction(nameof(Index));
-            }
-            return View(atividade);
-        }
-
-        public async Task<IActionResult> Delete(int? id)
-        {
-            var atividade = await atividadesService.GetById((int)id);
-
-            if (atividade == null)
-            {
-                return NotFound();
-            }
-
-            return View(atividade);
-        }
-
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
-        {
-
-            await atividadesService.Delete((int)id);
-            return RedirectToAction(nameof(Index));
-        }
-
     }
 }
